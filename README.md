@@ -1,4 +1,4 @@
-# cnn_digit_recognition
+# CNN_Digit_Recognition
 Handwritten Digit Classification using Convolutional Neural Networks (CNN) using MNIST Dataset
 
 Description: Developed and trained a Convolutional Neural Network (CNN) model for classifying handwritten digits from the MNIST dataset. Achieved high accuracy in recognizing digits from 0 to 9.
